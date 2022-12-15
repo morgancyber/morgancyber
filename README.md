@@ -8,4 +8,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/morgancyber/activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/morgancyber/networksecurityandprotocols)
+- <b>Vulnerability Management</b>
+  - [Vulnerability Management Using Nessus](https://github.com/morgancyber/nessuswalkthrough)
 
