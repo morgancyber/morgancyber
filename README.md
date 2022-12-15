@@ -1,5 +1,5 @@
 ### Hey! I'm Morgan, an IT Professional 👋
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology and Cyber Security Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/morgancyber/osticket-prereqs)
