@@ -1,4 +1,4 @@
-### Hey! I'm Morgan, an IT Professional 👋
+### Hey! I'm Morgan, an IT and Security Enthusiast 👋
 <h2>👨‍💻 Information Technology and Cyber Security Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
