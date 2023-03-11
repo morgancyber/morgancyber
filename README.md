@@ -10,4 +10,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/morgancyber/networksecurityandprotocols)
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Using Nessus](https://github.com/morgancyber/nessuswalkthrough)
-
+<b>Azure Sentinel SIEM</b>
+  - [Azure Sentinel SIEM Tutorial](https://github.com/morgancyber/azuresentineltutorial)
+ 
