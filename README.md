@@ -7,4 +7,5 @@
 - <b>Cyber Security</b>
   - [Vulnerability Management Using Nessus](https://github.com/morgancyber/nessuswalkthrough)
   - [Azure Sentinel SIEM Tutorial](https://github.com/morgancyber/azuresentineltutorial)
+  - [Basic Python Port Scanner](https://github.com/morgancyber/pythonportscanner)
  
