@@ -8,4 +8,4 @@
   - [Vulnerability Management Using Nessus](https://github.com/morgancyber/nessuswalkthrough)
   - [Azure Sentinel SIEM Tutorial](https://github.com/morgancyber/azuresentineltutorial)
   - [Basic Python Port Scanner](https://github.com/morgancyber/pythonportscanner)
- 
+  - [Dark Web Monitoring Script](https://github.com/morgancyber/darkwebscraper/blob/main/README.md)
