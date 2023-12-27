@@ -9,4 +9,4 @@
   - [Vulnerability Management Using Nessus](https://github.com/morgancyber/nessuswalkthrough)
   - [Basic Python Port Scanner](https://github.com/morgancyber/pythonportscanner)
   - [Dark Web Monitoring Script](https://github.com/morgancyber/darkwebscraper/blob/main/README.md)
-  - [Unified Threat Detection Lab] (https://github.com/morgancyber/threatdetection)
+  - [Unified Threat Detection Lab](https://github.com/morgancyber/threatdetection)
